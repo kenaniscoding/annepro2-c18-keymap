@@ -3,7 +3,11 @@
 go to qmk_firmware and edit the keymap.c
 ```bash
 cd qmk_firmware/keyboards/annepro2/boards/keymaps/
+```
+```bash
 cd asdf
+```
+```bash
 nvim keymap.c
 ```
 go back to main dir qmk_firmware
