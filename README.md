@@ -28,4 +28,4 @@ sudo ./annepro2_tools ./annepro2_c18_asdf.bin
 - Toggle between FN1 and FN2 through Capslock key
 ### Requirements
 - Linux, Neovim
-- QMK, AnnePro2, AnnePro2 Tools
+- QMK, AnnePro2, [AnnePro2 Tools](github.com/OpenAnnePro)
