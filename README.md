@@ -17,7 +17,9 @@ cd && cd qmk_firmware
 compile the qmk_firmware and move to annepro dir with the annepro2-tools
 ```bash
 make annepro2/c18
-cp annepro_c18_asdf.bin ~/annepro
+```
+```bash
+cp annepro2_c18_asdf.bin ~/annepro
 ```
 boot to annepro2 
 ```bash
